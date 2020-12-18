@@ -1,0 +1,11 @@
+numpy==1.18.1
+pandas==1.0.5
+matplotlib == 3.2.2
+scikit-learn==0.23.1
+streamlit == 0.71.0
+regex==2020.6.8
+spacy-streamlit==0.1.0
+emoji==0.6.0
+spacy==2.3.2
+wordcloud==1.8.1
+nltk==3.5
