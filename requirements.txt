@@ -10,5 +10,4 @@ spacy==2.3.2
 wordcloud==1.8.1
 nltk==3.5
 wordnet
-pros_cons
-reuters
+
